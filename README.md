@@ -1,5 +1,5 @@
 # Spam-the-Scammer
-Simple tool to  get revenge on the phishings attempts on you
+Simple tool to  get revenge on the phishing attempts on you
 
 # Usage
 ```
